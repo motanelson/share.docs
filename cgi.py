@@ -1,5 +1,5 @@
 from http.server import CGIHTTPRequestHandler, HTTPServer
-print("\033c\033[43;30m\n")
+print("\033c\033[40;37m\n")
 PORT = 5000
 handler = CGIHTTPRequestHandler
 
