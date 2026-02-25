@@ -1,5 +1,4 @@
-# cgi.server
-cgi script server simply
+build you cloud
 
 open source share documents over the internet 
 
